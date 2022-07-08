@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.topPage{
+    background: url("../img/space.jpg") center / cover;
+    width: 100%;
+    min-height: 100vh;
+
+}
+
+.topWord{
+    position: absolute;
+    right:10%;
+    bottom: 10%;
+    color:aliceblue;
+    font-weight: bold;
+    font-size:450%;
+    text-align: right;
+    filter: drop-shadow(5px 3px 0px #ce29e3);
+    font-family: 'Zen Old Mincho', serif;}
+
+.topBack{
+    background:linear-gradient(#F89174, #a903c3);
+
+}
